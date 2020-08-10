@@ -1,6 +1,7 @@
 
 # MLFLOW ON GCP
 ---
+FOLLOW THIS BLOG: [mlflow-on-google-cloud-platform](https://medium.com/faun/mlflow-on-google-cloud-platform-cd8c9b04a2d8)
 
 1. Clone The repo:
 ```git 
